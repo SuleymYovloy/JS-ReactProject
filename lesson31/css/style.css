@@ -1,0 +1,23 @@
+button {
+	width: 80px;
+	height: 30px;
+	border: none;
+	border-radius: 8px;
+	background-color: green;
+	color: #fff;
+	cursor: pointer;
+	outline: none;
+}
+
+#btn {
+   width: 80px;
+   margin: 0;
+
+}
+
+.overlay {
+   padding: 30px;
+   background-color: bisque;
+   margin-bottom: 10px;
+   width: 80px;
+}
